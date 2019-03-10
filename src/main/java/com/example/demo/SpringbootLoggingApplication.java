@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootLoggingApplication {
 
 	public static void main(String[] args) {
-		System.out.println("测试日志文件");
+		System.out.println("新建分支文件");
 		SpringApplication.run(SpringbootLoggingApplication.class, args);
 	}
 
